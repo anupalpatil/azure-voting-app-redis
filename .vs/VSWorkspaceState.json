@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\azure-vote",
+    "\\scripts"
   ],
+  "SelectedNode": "\\Jenkinsfile",
   "PreviewInSolutionExplorer": false
 }
