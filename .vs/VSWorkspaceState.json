@@ -4,6 +4,10 @@
     "\\azure-vote",
     "\\scripts"
   ],
+<<<<<<< HEAD
   "SelectedNode": "\\Jenkinsfile",
+=======
+  "SelectedNode": "\\C:\\Users\\sunit\\Source\\Repos\\azure-voting-app-redis",
+>>>>>>> c78a5dec763ccd0ba1971c0ea2c801bb94180f78
   "PreviewInSolutionExplorer": false
 }
